@@ -3,3 +3,4 @@ venv/
 __pycache__/
 *.pyc
 database/
+data/SmartRation_expanded_registered_beneficiaries.csv
